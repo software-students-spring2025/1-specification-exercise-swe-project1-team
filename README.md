@@ -18,7 +18,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A marketplace app that builds a bridge for tourists, businesses, vendors, and consumers by providing access to market information, promotions, and recruitment opportunities.
 
 ## User Requirements
 
