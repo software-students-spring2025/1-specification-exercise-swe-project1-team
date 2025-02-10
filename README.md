@@ -21,9 +21,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 This is an UML diagram how a job seeker can find and apply job from the APP.
-/Users/billbble/1-specification-exercise-swe-project1-team/WechatIMG285.jpg
+assets/UML1.jpg
 This is an UML diagram how a business owner create a store profile so that they can present my products thorugh APP.
-/Users/billbble/1-specification-exercise-swe-project1-team/WechatIMG286.jpg
+assets/UML2.jpg
 
 ## Clickable Prototype
 
