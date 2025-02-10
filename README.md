@@ -8,13 +8,42 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 Haoxuan Lin [GitHub Link](https://github.com/Echoudexigaigu)
 
-Xingjian Zhang
+Xingjian Zhang [GitHub Link](https://github.com/ScottZXJ123)
 
-Zihao Pan 
+Kenny Pan [GitHub Link](https://github.com/kenny-pan)
+
+Wenzhuo Feng [GitHub Link](https://github.com/BillBBle)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### **1. Allen Pang**
+- **Goals/Needs**:
+  - Want to reflect certain problems of the market.
+- **Problems/Frustrations**:
+  - Lack of reliable market data.
+  - Difficulty in reaching out to customers.
+
+### **2. Xiongyue Mei**
+- **Goals/Needs**:
+  - Want to know the shops inside.
+- **Problems/Frustrations**:
+  - No centralized shop directory.
+  - Hard to find shop details online.
+
+### **3. Jeanette Kale**
+- **Goals/Needs**:
+  - Need a place to open a business.
+- **Problems/Frustrations**:
+  - High rental costs.
+  - No clear process for getting permits.
+
+### **4. Zhengxuan Tian**
+- **Goals/Needs**:
+  - Need coupons to reduce payment.
+- **Problems/Frustrations**:
+  - No easy way to find and collect coupons.
+  - Complicated redemption processes.
+
 
 ## Product Vision Statement
 
