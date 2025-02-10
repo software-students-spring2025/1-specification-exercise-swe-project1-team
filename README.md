@@ -16,33 +16,58 @@ Wenzhuo Feng [GitHub Link](https://github.com/BillBBle)
 
 ## Stakeholders
 
-### **1. Allen Pang**
-- **Goals/Needs**:
-  - Want to reflect certain problems of the market.
-- **Problems/Frustrations**:
-  - Lack of reliable market data.
-  - Difficulty in reaching out to customers.
+## Stakeholders and Their Needs
 
-### **2. Xiongyue Mei**
-- **Goals/Needs**:
-  - Want to know the shops inside.
-- **Problems/Frustrations**:
-  - No centralized shop directory.
-  - Hard to find shop details online.
+### **1. Allen Pang (Aspiring Market Manager)**
+- **Desires:**
+  - Gain practical experience in **market management**.
+  - Develop skills in **business operations** and customer engagement.
+  - Access **real-time market trends** to make informed decisions.
+  - Connect with business owners and improve **market efficiency**.
+- **Frustrations:**
+  - **Lack of management opportunities** for aspiring professionals.
+  - Difficulty in **gaining hands-on experience** in market operations.
+  - No centralized platform to track **market performance metrics**.
+  - Limited resources to practice **business strategies** in a real environment.
 
-### **3. Jeanette Kale**
-- **Goals/Needs**:
-  - Need a place to open a business.
-- **Problems/Frustrations**:
-  - High rental costs.
-  - No clear process for getting permits.
+### **2. Xiongyue Mei (Foreign Tourist, First Time in the US)**
+- **Desires:**
+  - Discover **good food** and **popular restaurants** nearby.
+  - Find **recommended shopping spots** with tourist-friendly services.
+  - Access **multi-language support** for easier navigation.
+  - Experience **local culture through food and shopping**.
+- **Frustrations:**
+  - **Unfamiliarity with the area**, leading to difficulty in choosing places to visit.
+  - **Language barriers** make it hard to understand store menus and guides.
+  - Difficulty in **finding tourist-friendly shops** with fair pricing.
+  - No **comprehensive food and shopping guide** tailored for foreign tourists.
 
-### **4. Zhengxuan Tian**
-- **Goals/Needs**:
-  - Need coupons to reduce payment.
-- **Problems/Frustrations**:
-  - No easy way to find and collect coupons.
-  - Complicated redemption processes.
+### **3. Jeanette Kale (Aspiring Small Business Owner)**
+- **Desires:**
+  - Open a **small business** and navigate the **process smoothly**.
+  - Get **detailed information on rental spaces**, permits, and licensing.
+  - Connect with **local business support groups** for advice.
+  - Compare **costs and benefits** of different locations.
+- **Frustrations:**
+  - **Lack of transparent information** on starting a business.
+  - Hard to find **affordable rental spaces** for new entrepreneurs.
+  - No centralized platform for **business setup guidance**.
+  - Bureaucratic challenges in obtaining **permits and licenses**.
+
+### **4. Zhengxuan Tian (Local Resident, Frequent Shopper & Foodie)**
+- **Desires:**
+  - Save money on **food delivery and takeout**.
+  - Find the **best deals** for clothing and daily shopping.
+  - Get **exclusive discounts and coupons** for frequent buyers.
+  - Access **membership rewards** for loyal customers.
+- **Frustrations:**
+  - **High costs of food delivery** and lack of discount options.
+  - Clothing and food **prices fluctuate**, making budgeting difficult.
+  - Hard to track **available deals and best purchasing times**.
+  - Many promotions require **unnecessary sign-ups** or hidden conditions.
+
+---
+
 
 
 ## Product Vision Statement
