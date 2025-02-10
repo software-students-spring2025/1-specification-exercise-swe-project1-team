@@ -16,8 +16,6 @@ Wenzhuo Feng [GitHub Link](https://github.com/BillBBle)
 
 ## Stakeholders
 
-## Stakeholders and Their Needs
-
 ### **1. Allen Pang (Aspiring Market Manager)**
 - **Desires:**
   - Gain practical experience in **market management**.
