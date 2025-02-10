@@ -25,7 +25,6 @@ Wenzhuo Feng [GitHub Link](https://github.com/BillBBle)
 - **Frustrations:**
   - **Lack of management opportunities** for aspiring professionals.
   - Difficulty in **gaining hands-on experience** in market operations.
-  - No centralized platform to track **market performance metrics**.
   - Limited resources to practice **business strategies** in a real environment.
 
 ### **2. Xiongyue Mei (Foreign Tourist, First Time in the US)**
