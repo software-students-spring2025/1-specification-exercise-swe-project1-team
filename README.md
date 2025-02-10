@@ -86,11 +86,12 @@ A marketplace app that builds a bridge for tourists, businesses, vendors, and co
 
 ## Activity Diagrams
 
-This is an ![UML](assets/UML1.jpg) diagram how a job seeker can find and apply job from the APP.
+This is a diagram of how a job seeker can find and apply for a job from the APP.
+![UML](assets/UML1.jpg)
 
-This is an ![UML](assets/UML2.jpg) diagram how a business owner create a store profile so that they can present my products thorugh APP.
-
+This is a diagram of how a business owner creates a store profile so that they can present their products through an APP.
+![UML](assets/UML2.jpg)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
