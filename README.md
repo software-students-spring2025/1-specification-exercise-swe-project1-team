@@ -96,4 +96,4 @@ This is a diagram of how a business owner creates a store profile so that they c
 
 ## Clickable Prototype
 
-[Prototype](https://www.figma.com/design/fySWzCK36Dpc4kDybAu7Cv/Project-1-Wireframe?node-id=8-12&m=dev&t=BWZ53fFtYGbbXELQ-1)
+[Prototype](https://www.figma.com/proto/fySWzCK36Dpc4kDybAu7Cv/Project-1-Wireframe?node-id=8-12&t=qfBVv5rxAbE9SrQp-1)
